@@ -41,10 +41,10 @@ class YandexGPT:
         return text
 
 
-token = 'AQVNwSZeY1QMPNMqzvg0g7RhZnOh2lzS9nLBG4X9'
-catalog = 'b1gudqu10s4gkb13j86v'
+token = ''
+catalog = ''
 
-token = '7985795571:AAFs5VcM9Yo7K-CY8ufRPcl-zrMreKukPLc'
+token = ''
 bot = telebot.TeleBot(token)
 
 todo = []
